@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\asset"
+        },
+        {
+            "path": "D:\\sabang"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "asset"
+    }
+}
